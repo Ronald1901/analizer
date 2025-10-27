@@ -1,0 +1,5 @@
+{
+  "name": "Video Script Analyzer",
+  "description": "Get a scene-by-scene script and story structure analysis from any YouTube video.",
+  "requestFramePermissions": []
+}
